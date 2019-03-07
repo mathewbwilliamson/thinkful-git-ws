@@ -6,18 +6,13 @@ THIS IS ONE TOO
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
 hello world
-## Git
-THIS IS A CHANGE!!!!
-* What is Git?
-  * GitHub is the most popular site for remotely saving our code and collaborating with other developers on open source projects
-* Local & Remote Branches
-  * Local - branch stored on your personal computer
-  * Remote - branch stored in a separate repository, like GitHub, Bitbucket, GitLab, etc
-* Branching Strategies
-  * [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-* Git Init
-* Command that initializes our file directory into a new Git repo
-* Status / Add & Commit
+
+this is my new code
+
+It is great
+
+
+and awesome
   * Status - shows us which files we have changed in our repo, and which files we are currently tracking
   * Add - add files to the staging area
     * Which files do we want to include in our next commit?
